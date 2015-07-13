@@ -42,6 +42,7 @@ h3 {
 .nav-pills > li a {
   background-color: black;
   font-size: 18px;
+  transition: background-color 0.5s;
 }
 .nav-pills > li:not(last-of-type) a {
   margin-right: 20px;

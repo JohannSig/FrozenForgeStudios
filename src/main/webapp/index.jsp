@@ -77,7 +77,7 @@
                                     </div>
 
                                     <div class="col-sm-8">
-                                        <p>A free-to-play strategic warfare game in the spirit of Game of Thrones. Players assume the role of a feudal Lord or Lady that strives to become Sovereign by way of ocnquest.</p>
+                                        <p>A free-to-play strategic warfare game in the spirit of Game of Thrones. Players assume the role of a feudal Lord or Lady that is striving to become Sovereign by way of conquest.</p>
 
                                         <p>Sovereign Online rewards Players for clever use of their resources, diplomacy and backstabbing.</p>
 
@@ -121,7 +121,7 @@
                                             </a>
                                         </p>
                                         <p class="text-center">
-                                            <small>ReChoir is a highly-accessable content library system for musical groups</small>
+                                            <small>ReChoir is a highly-accessible content library system for musical groups</small>
                                         </p>                                
                                     </div>
                                     <div class="col-sm-8">    
@@ -140,7 +140,7 @@
                             <div class="panel-body">
 
                                 <h3>
-                                    Small website work
+                                    Smaller responsive web site projects
                                 </h3>
 
                                 <p>We have also implemented a few smaller web sites:</p>
@@ -152,7 +152,7 @@
                                                 <img src="content/images/vp.png" alt="" style="width: 100%;"/>
                                             </a>
                                         </p>
-                                        <p class="text-center"><small>Vocal Project is one of, if not the single greatest pop choirs</small></p>
+                                        <p class="text-center"><small>Vocal Project, Iceland's Pop Choir</small></p>
                                     </div>
 
                                     <div class="col-sm-4">
